@@ -1,2 +1,1 @@
-login page 23
-logout page
+logout is here
